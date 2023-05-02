@@ -1,12 +1,12 @@
 
 ![MasterHead](https://www.dignited.com/wp-content/uploads/2022/08/top10lan-1024x576.jpg)
 <h1 align="center">Hi 👋, I'm Farzeen Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzeen002&label=Profile%20views&color=0e75b6&style=flat" alt="farzeen002" /> </p>
 
-- 🔭 I’m currently working on **Full Stack using Java**
+- 🔭 I’m currently working on **Full Stack Development using Java**
 
 - 🌱 I’m currently learning **Angular**
 
