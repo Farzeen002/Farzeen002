@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Farzeen Ahmed</h1>
-<h3 align="center">A Passionate FullStack Developer From India</h3>
+<h3 align="center">A Passionate FullStack & DevOps Engineer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzeen002&label=Profile%20views&color=0e75b6&style=flat" alt="farzeen002" /> </p>
